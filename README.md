@@ -6,11 +6,12 @@ This is a simple Python-based web scraping script that extracts the latest news 
 - scraper.py: Main Python script for scraping
 - headlines.txt: Output file containing scraped headlines
 
-## 🛠 Tools Used:
+## Tools Used:
 - Python 3
 - requests
 - BeautifulSoup from bs4
 
 ## How to Run:
 ```bash
+
 python scraper.py
